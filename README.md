@@ -29,19 +29,16 @@ Here are some projects I built or contributed to:
 
 **videotube** – https://video-tube-tawny.vercel.app/
 
-**Momos-Hub** – momoshub-gray.vercel.app
+**Momos-Hub** – momoshub-gray.vercel.app/
 
-**DataVista** – (Contributed to Arfatnaik0/DataVista) Interactive data UI.
-
-
-*(Add your own short descriptions and links to live demos!)*
+**DataVista** – https://datavistaminithon.vercel.app/
 
 ---
 
 ## Connect With Me
 
 **GitHub**: https://github.com/Ammarfrfr  
-**LinkedIn**: (https://www.linkedin.com/in/ammarfrfr/)
+**LinkedIn**: https://www.linkedin.com/in/ammarfrfr/
 
 
 Thanks for visiting my profile!   
