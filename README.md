@@ -29,7 +29,7 @@ Here are some projects I built or contributed to:
 
 **videotube** – https://video-tube-tawny.vercel.app/
 
-**Momos-Hub** – momoshub-gray.vercel.app/
+**Momos-Hub** – https://momoshub-gray.vercel.app/
 
 **DataVista** – https://datavistaminithon.vercel.app/
 
