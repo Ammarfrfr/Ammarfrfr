@@ -1,6 +1,5 @@
 # Hi, I'm Ammar Shaikh (Ammarfrfr)
 
-
 - I build web applications and interactive projects.
 - I enjoy learning modern tools and frameworks for full-stack development.
 - Currently improving my skills with real-world projects.
@@ -20,25 +19,7 @@ Here are some of the things I know / work with:
 | Dev Tools | Git, GitHub |
 | Others | VS Code, REST APIs |
 
-
-## Featured Projects
-
-Here are some projects I built or contributed to:
-
-**Portfolio** – https://portfolio-nine-eta-31.vercel.app/
-
-**videotube** – https://video-tube-tawny.vercel.app/
-
-**Momos-Hub** – https://momoshub-gray.vercel.app/
-
-**DataVista** – https://datavistaminithon.vercel.app/
-
----
-
 ## Connect With Me
 
 **GitHub**: https://github.com/Ammarfrfr  
 **LinkedIn**: https://www.linkedin.com/in/ammarfrfr/
-
-
-Thanks for visiting my profile!   
